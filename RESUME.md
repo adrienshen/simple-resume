@@ -27,7 +27,7 @@ Realized what coding is actually for: creating stuff, building versions of the f
 
 
 2016:  
-Tuned down my crazy startup ideas a little and decided to apply for crazy startups instead. Was able to get some (free)lance work for some early stage startups, SushiVid, LizardApps. Worked on contract for a transportation startup (CatchThatBus) for several contracts building their CMS system, CRM-payments system, inventory, and analytics systems. Viren the CEO is an awesome guy, but I turn down the full time offer.
+Tuned down my crazy startup ideas a little and decided to apply for crazy startups instead. Was able to get some (free)lance work for some early stage startups, SushiVid, LizardApps. Worked on contract for a transportation startup (CatchThatBus) for several contracts building their CMS system, CRM-payments system, inventory, and analytics systems. Viren the CEO is an awesome guy.
 
 
 Now:  
